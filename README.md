@@ -7,6 +7,9 @@ Arrays and loop of Go language are used here.
 
 - Accepts transactions from the user until the value *n* is entered, then calculates and displays the total balance as the sum of all transactions.
 
+## Requirements
+- Go (version specified in `go.mod`)
+
 ## Installation
 
 1. **Clone the repository:**
