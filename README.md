@@ -1,6 +1,7 @@
 # Golang Transaction Accounting
 
 This project is a Go application designed to manage transactions for accounting purposes.
+This is where Go language arrays and loops are used.
 
 ## Features
 
