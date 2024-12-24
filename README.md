@@ -1,6 +1,6 @@
 # Golang Transaction Accounting
 
-This project is a Go application designed to manage database transactions for accounting purposes.
+This project is a Go application designed to manage transactions for accounting purposes.
 
 ## Features
 
